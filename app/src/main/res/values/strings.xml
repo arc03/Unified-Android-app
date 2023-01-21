@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unified</string>
+    <string name="calculator">Calculator</string>
+    <string name="back">Back</string>
+    <string name="addition">Addition</string>
+    <string name="enter_number_1">Enter Number 1</string>
+    <string name="division">Division</string>
+    <string name="substraction">Substraction</string>
+    <string name="enter_number_2">Enter Number 2</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="display">Enter Value</string>
+</resources>

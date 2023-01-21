@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674484662906",
+    "project_id": "unified-cb885",
+    "storage_bucket": "unified-cb885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674484662906:android:6f5d19c5ba2b0513b741c3",
+        "android_client_info": {
+          "package_name": "arc.preperation.unified"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674484662906-ujcdodamvd9lk7cji7fqlhu5uqv2osao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_cDUhpY0MVqGQBwTpCobnOtK8WFeg2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674484662906-ujcdodamvd9lk7cji7fqlhu5uqv2osao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
