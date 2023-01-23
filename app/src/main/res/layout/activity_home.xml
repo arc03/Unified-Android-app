@@ -118,18 +118,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:strokeColor="#2196F3" />
 
-    <TextView
-        android:id="@+id/textView10"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="144dp"
-        android:layout_marginBottom="12dp"
-        android:autoLink="all"
-        android:text="https://www.facebook.com/netcamp.in"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/textView9"
-        app:layout_constraintEnd_toEndOf="parent" />
-
     <ImageView
         android:id="@+id/imageView7"
         android:layout_width="86dp"
@@ -144,25 +132,37 @@
         android:id="@+id/textView9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="180dp"
+        android:layout_marginEnd="196dp"
         android:layout_marginBottom="8dp"
         android:autoLink="all"
         android:clickable="true"
-        android:text="http://instagram.com/netcamp.in"
+        android:text="linkedin.com/in/archita-sharda"
         android:textStyle="bold"
         app:emojiCompatEnabled="true"
         app:layout_constraintBottom_toTopOf="@+id/textView8"
         app:layout_constraintEnd_toEndOf="parent" />
 
     <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="232dp"
+        android:layout_marginBottom="8dp"
+        android:autoLink="all"
+        android:text="https://github.com/arc03"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView9"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
         android:id="@+id/textView8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="252dp"
-        android:layout_marginBottom="24dp"
+        android:layout_marginEnd="220dp"
+        android:layout_marginBottom="4dp"
         android:autoLink="email"
         android:linksClickable="true"
-        android:text="helpdesk@netcamp.in"
+        android:text="archisharda03@gmail.com"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/button6"
         app:layout_constraintEnd_toEndOf="parent" />
